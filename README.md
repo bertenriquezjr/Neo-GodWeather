@@ -1,2 +1,2 @@
 # Neo-GodWeather
-AI-enhanced  weather forecast system for LGUs and IRRI
+AI-enhanced  weather forecast system for LGUs, IRRI, FARMERS, FISHERMEN
